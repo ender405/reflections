@@ -16,3 +16,6 @@ git pull origin master
 
 Forking an online repository
 Allows you to refer to someone else's project but then also create your own version that you can edit and commit, etc
+
+
+If you clone a git project into the wrong folder, using rm -rf [directory] will remove it and you can reclone.  Apparently one can also just move the directory but I wasn't able to figure that out
