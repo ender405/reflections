@@ -11,3 +11,6 @@ git diff (with no arguments, compares the version in the working directory with 
 git diff --stage (allows you to compare the staged version to repository before committing)
 
 git reset --hard (dangerous, but discards changes in working directory or staging areas)
+
+git branch displays branches
+you can checkout a branch just like you can checkout a past commit
