@@ -12,3 +12,7 @@ git push origin master
 Syncing the remote with local:
 
 git pull origin master
+
+
+Forking an online repository
+Allows you to refer to someone else's project but then also create your own version that you can edit and commit, etc
