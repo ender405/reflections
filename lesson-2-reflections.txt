@@ -17,3 +17,6 @@ you can checkout a branch just like you can checkout a past commit
 
 git log --graph --oneline [branch1] [branch2]
 allows you to visualize the way that projects have changed when other people are working on them
+
+
+git -b checkout creates and new branch and a commits a new file to that branch
