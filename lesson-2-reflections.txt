@@ -1,0 +1,6 @@
+You need to initiate a repository so that git knows that the folder is being tracked, and so that you can define what is being tracked
+
+
+useful commands
+
+git reset (resets the staging area added to by git add so that you can change what you want to commit)

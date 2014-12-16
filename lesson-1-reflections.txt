@@ -1,0 +1,22 @@
+<!-- lesson 1 reflections>
+
+useful is grep to find commit id's
+git log --stat -i --grep=[string]
+
+using diff is counter intuitive...you pick the new file second
+
+It will be easier to break things if I can easily go back and forth between files!
+
+custom configs
+show current checked out commit
+
+
+I want to use git for the program that I'm planning to make
+
+.git is the metadata in each git repository
+
+ls -a gets hidden files too
+
+useful commands
+git status
+git add (adds files to be tracked when you have that folder tracked by git)
