@@ -14,3 +14,6 @@ git reset --hard (dangerous, but discards changes in working directory or stagin
 
 git branch displays branches
 you can checkout a branch just like you can checkout a past commit
+
+git log --graph --oneline [branch1] [branch2]
+allows you to visualize the way that projects have changed when other people are working on them
