@@ -4,3 +4,4 @@ You need to initiate a repository so that git knows that the folder is being tra
 useful commands
 
 git reset (resets the staging area added to by git add so that you can change what you want to commit)
+actually, my initial understanding was wrong.  git reset keeps the file in the commit but resets it to the last commit
