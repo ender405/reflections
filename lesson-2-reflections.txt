@@ -20,3 +20,7 @@ allows you to visualize the way that projects have changed when other people are
 
 
 git -b checkout creates and new branch and a commits a new file to that branch
+
+git merge [master] [branch]
+git show looks at only the changes vs the parent
+git branch -d [branch] deletes a branch once you have merged it...you don't lose the commits
