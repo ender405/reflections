@@ -5,3 +5,9 @@ useful commands
 
 git reset (resets the staging area added to by git add so that you can change what you want to commit)
 actually, my initial understanding was wrong.  git reset keeps the file in the commit but resets it to the last commit
+
+git diff (with no arguments, compares the version in the working directory with the latest commit, contained in the staging area)
+
+git diff --stage (allows you to compare the staged version to repository before committing)
+
+git reset --hard (dangerous, but discards changes in working directory or staging areas)
