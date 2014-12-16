@@ -1,0 +1,9 @@
+
+Creating a new repository on github
+git remote
+
+git remote add origin [url from github]
+
+git remote -v
+
+git push origin master
