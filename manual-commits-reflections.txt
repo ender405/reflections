@@ -1,0 +1,3 @@
+<!-- manual commits reflections>
+
+choosing when to commit allows the user to control how easy/hard it is for others to understand his/her work
