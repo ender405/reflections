@@ -7,3 +7,8 @@ git remote add origin [url from github]
 git remote -v
 
 git push origin master
+
+
+Syncing the remote with local:
+
+git pull origin master
